@@ -517,15 +517,22 @@ cite {
 }
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 10px 0;
-  font-family: Arvo, sans-serif;
+h3 {
+  margin: 1.2em 0px 0.8em 0px;
+  font-family: "Helvetica Neue", sans-serif;
   font-weight: bold;
   line-height: 1;
   color: #126296;
+  text-rendering: optimizelegibility;
+}
+h4,
+h5,
+h6 {
+  margin: 1.2em 0px 0.8em 0px;
+  font-family: "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  line-height: 1;
+  color: black;
   text-rendering: optimizelegibility;
 }
 h1 small,
@@ -3517,7 +3524,7 @@ input[type="submit"].btn.btn-mini {
   margin-left: -20px;
   font-size: 30px;
   font-weight: 200;
-  font-family: Arvo, sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   color: #eeeeee;
   text-shadow: 0 1px 0 #36a1c6;
 }
@@ -3681,7 +3688,7 @@ input[type="submit"].btn.btn-mini {
   color: #eeeeee;
   text-decoration: none;
   text-shadow: 0 1px 0 #36a1c6;
-  font-family: Arvo, sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
 }
 .navbar .nav .dropdown-toggle .caret {
   margin-top: 8px;
