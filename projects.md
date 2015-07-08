@@ -8,7 +8,7 @@ This list of projects will be available here.  New projects will be added.  You 
 
 ### WorldScope: Mobile-to-Mobile Live Broadcast 
 
-The goal of this project is to develop an open source clone of Periscope.  Students will work in a team of 3-5 to build a mobile client and a server that allow a user to stream video and audio live from a mobile phone to their subcribers (listening and watching on their mobile phones).
+The goal of this project is to develop an open source clone of Periscope.  Students will build a mobile client and a server that allow a user to stream video and audio live from a mobile phone to their subcribers (listening and watching on their mobile phones).
 
 
 ### Jiku Director 3.0
