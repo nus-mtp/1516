@@ -25,16 +25,15 @@ Teaching and learning in CS3201/2 are more structured.  Every team works on the 
 
 #### How do I register for CS3283/4?
 
-Please register here: http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66
-
+Please register at this [CS3283/4 registration website](http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66)
 
 #### How do we form team?
 
 CS3283/4 projects must be completed with a team of 4-5 members (strict bound -- with exceptions allowed only for special cases).
 
-If you have already form a team, please register your team at http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66
+If you have already form a team, you can register your team at [the registration website](http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66).
 
-If you are looking for a team to join, or has a team that lacks members, register at the same link above http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66
+If you are looking for a team to join, or has a team that lacks members, register at [the same site](http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66) and I will try to do some matchmaking.
 
 
 #### I am going away for NOC/SEP/ATAP/etc in Semester 2.  What should I do?
@@ -46,3 +45,66 @@ I, however, urge that you choose the remote team option only if the whole team i
 #### What if I am going away for NOC/SEP/ATAP/etc in Semester 1.  Can I do the same?
 
 No.  It is much harder for the requirement elicitation and design phases to be done as a distributed team.  You need to be physically present and working as a co-located team for CS3283.
+
+#### How do we choose our projects?
+
+The list of available projects will be published, and you will be able to bid for the projects the week before the semester starts, by indicating your team preferences.  Details will be provided to registered students.
+
+### Teaching and Learning
+
+CS3283 and CS3284 provide opportunities for students to experience and put into practice, the following software engineering methodologies and practices.
+
+* gathering of software requirements
+* writing of software requirements documentation
+* designing the architecture of a software system
+* designing the user interaction and user experience
+* evaluation of different design choices and algorithms
+* writing of software design documentation
+* developing software based on the given requirements and design
+* practicing clean coding
+* reviewing code from peers
+* developing test cases
+* using tools for static code analysis
+* using tools for automated functionality and UI testing
+* testing and evaluation of the developed software
+* planning and scheduling of project tasks
+* using revision control system and issue trackers
+* managing the a team-based software development projects
+
+At the end of the project, students should be able to:
+
+* apply rigorous and principled software development methodologies and techniques to develop user-friendly, robust, secure, and efficient software systems
+* apply appropriate mathematics and computer science principles in one or more specialization to analyze and formulate an application problem, and to design, implement, and evaluate the solution of the problems.
+* demonstrate strong communication and teamwork skills to work with and 
+* contribute to a software team.
+
+#### Prerequisites
+
+The official prerequisites for MTP are CS2103 and one of the 3000-level media modules (the later requirement can be waived for non-CM students).
+
+Having relevant experience of the following modules, however, are extremely useful. Each team should have one or more students who have relevant experience related to these modules. Almost all software systems require an understanding of all of these fundamentals.
+
+* CS2102 Database Systems
+* CS2105 Introduction to Computer Networking
+* CS2106 Introduction to Operating systems
+* CS2107 Introduction to Information and System Security
+* CS3240 Interaction Design
+* CS3230 Design and Analysis of Algorithms
+
+Additional knowledge (such as AI) may be needed, depending on the nature and domain of the project.
+
+#### Workload
+
+CS3283 and CS3284 is 4MC each.  Each student is expected to spend an average of 10 hours a week each semester on the project. Accordingly, at the end of the academic year, a team with k-member is expected to produce deliverables worthy of 260k person-hour of work.  To put that into perspective, a 4-member team should produce a work that is equivalent to about 1.5 person-month.
+
+Students taking MTP are expected to plan their timetable properly to allow sufficient time to contribute to the project.
+
+#### Class Activities
+
+Each team will meet for 5 hours (consecutively) a week, for intense work sessions (think hackathon-type of intensity).  Instructors will join every work session, at least at the beginning.  Instructor will review and evaluate the work progress of the team (and individual students) at the work session, including conducting code review with individual students.
+
+We will adopt a somewhat agile methods where there is a weekly (or bi-weekly) release cycle and test-driven development where test cases will be developed (and tested) during development.
+
+There will be a stand up meeting at the beginning and the end of every work session.  A Kanban board (or similar techniques) will be used to keep track of tasks and progresses.  We will use github extensively (if the existing project does not already have a repository).  
+
+We will also have lectures in some of the weeks for discussions and recap of various software engineering principles.
