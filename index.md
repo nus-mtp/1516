@@ -25,15 +25,17 @@ Teaching and learning in CS3201/2 are more structured.  Every team works on the 
 
 #### How do I register for CS3283/4?
 
-Please indicate your intention either during MPE or send an email to Wei Tsang (ooiwt@comp.nus.edu.sg).  
+Please register here: http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66
+
 
 #### How do we form team?
 
 CS3283/4 projects must be completed with a team of 4-5 members (strict bound -- with exceptions allowed only for special cases).
 
-If you have already form a team, please email me the team's name (pick a cool one), list of students with each student's names, student number, email address, github ID (you have one, don't you?).   
+If you have already form a team, please register your team at http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66
 
-If you are looking for a team to join, or has a team that lacks members, email me as well, and I will try to pair you up with the rest.  
+If you are looking for a team to join, or has a team that lacks members, register at the same link above http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66
+
 
 #### I am going away for NOC/SEP/ATAP/etc in Semester 2.  What should I do?
 
@@ -44,4 +46,3 @@ I, however, urge that you choose the remote team option only if the whole team i
 #### What if I am going away for NOC/SEP/ATAP/etc in Semester 1.  Can I do the same?
 
 No.  It is much harder for the requirement elicitation and design phases to be done as a distributed team.  You need to be physically present and working as a co-located team for CS3283.
-
