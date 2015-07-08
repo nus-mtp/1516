@@ -4,7 +4,7 @@ layout: page
 group: navigation
 ---
 
-This list of projects is in a flux.  New projects maybe added, existing project maybe removed, but should give you a flavour of the amount of work expected.
+This list of projects will be available here.  New projects will be added.  You can find two samples of what will be offered here.  If you have ideas about what projects you want to do, feel free to propose your own.  You can email your ideas to Wei Tsang at ooiwt@comp.nus.edu.sg.
 
 ### WorldScope: Mobile-to-Mobile Live Broadcast 
 
