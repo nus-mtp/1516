@@ -25,7 +25,9 @@ Teaching and learning in CS3201/2 are more structured.  Every team works on the 
 
 #### How do I register for CS3283/4?
 
-Please register at this [CS3283/4 registration website](http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66)
+Registration is done outside of MPE/CORS, using this [CS3283/4 registration website](http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66).
+
+Please make sure that you have no timetable clash for Thursday 4-6pm, which is the lecture slot for CS3283/4 before you register.
 
 #### How do we form team?
 
@@ -35,6 +37,9 @@ If you have already form a team, you can register your team at [the registration
 
 If you are looking for a team to join, or has a team that lacks members, register at [the same site](http://mysurvey.nus.edu.sg/EFM/se/543BE5C214A8AD66) and I will try to do some matchmaking.
 
+#### Is there a deadline in registering/forming team/selecting projects?
+
+We should settle everything before the first week of semester.  Although the earlier you do it, the better (especially if you need time to find teammates).
 
 #### I am going away for NOC/SEP/ATAP/etc in Semester 2.  What should I do?
 
@@ -87,7 +92,7 @@ Having relevant experience of the following modules, however, are extremely usef
 * CS2102 Database Systems
 * CS2105 Introduction to Computer Networking
 * CS2106 Introduction to Operating systems
-* CS2107 Introduction to Information and System Security
+* CS2107 Introduction to Information Security
 * CS3240 Interaction Design
 * CS3230 Design and Analysis of Algorithms
 
