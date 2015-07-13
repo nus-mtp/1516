@@ -23,3 +23,10 @@ group: navigation
 * Yuen Shu Hui	 
 * Bui Trong Nhan	 
 * Liu Jiale
+
+## The Remnants
+* Eu Yong Xue
+* Jermyn Tanu	
+* Justin Law	
+* Muhammad Hanif B Ghazali	
+* Tay Shuan Siang
