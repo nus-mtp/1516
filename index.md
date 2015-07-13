@@ -59,8 +59,8 @@ The list of available projects will be published, and you will be able to bid fo
 
 CS3283 and CS3284 provide opportunities for students to experience and put into practice, the following software engineering methodologies and practices.
 
-* gathering of software requirements
-* writing of software requirements documentation
+* eliciting software requirements
+* writing software requirements documentation
 * designing the architecture of a software system
 * designing the user interaction and user experience
 * evaluation of different design choices and algorithms
@@ -100,7 +100,7 @@ Additional knowledge (such as AI) may be needed, depending on the nature and dom
 
 #### Workload
 
-CS3283 and CS3284 is 4MC each.  Each student is expected to spend an average of 10 hours a week each semester on the project. Accordingly, at the end of the academic year, a team with k-member is expected to produce deliverables worthy of 260k person-hour of work.  To put that into perspective, a 4-member team should produce a work that is equivalent to about 1.5 person-month.
+CS3283 and CS3284 is 4MC each.  Each student is expected to spend an average of 10 hours a week each semester on the project. Accordingly, at the end of the academic year, a team with k-member is expected to produce deliverables worthy of 260k person-hour of work.  To put that into perspective, a 4-member team should produce a work that is equivalent to about 6.5 person-month (8 hours/day, 20 days/month).
 
 Students taking MTP are expected to plan their timetable properly to allow sufficient time to contribute to the project.
 
@@ -113,3 +113,11 @@ We will adopt a somewhat agile methods where there is a weekly (or bi-weekly) re
 There will be a stand up meeting at the beginning and the end of every work session.  A Kanban board (or similar techniques) will be used to keep track of tasks and progresses.  We will use github extensively (if the existing project does not already have a repository).  
 
 We will also have lectures in some of the weeks for discussions and recap of various software engineering principles.
+
+#### Assessments
+
+There are two components to the final grade assigned: 70% individual grade, and 30% team grade.  As you can see, unlike other project modules, the evaluation will based heavily on individual contributions.  
+
+The evaluation will also be done continuously instead of at the end of the semester.  A letter grade will be assigned to the performance of each student every four weeks.  The final individual grade will be the cumulative grade over the semester.  
+
+The final team grade will be assessed through the final report, demonstration, and presentation, to be held during the reading week. 
