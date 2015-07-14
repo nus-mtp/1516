@@ -5,24 +5,24 @@ group: navigation
 ---
 
 ## Cinematron
-* Stella Widyasari
-* Lim En Dian John	 
-* Michelle Sinn Shew Ye Oo	 
 * Cheng Wen Zhao	 
 * Jeffrey Effendy
+* Lim En Dian John	 
+* Michelle Sinn Shew Ye Oo	 
+* Stella Widyasari
 
 ## A.L.P.H.A
-* Tan Tack Poh
 * Daryl Lim Wancai	 
-* Qiu Yunhan	 
 * Doan Xuan Loc Nguyen	 
 * James Ho Tuck Wai
+* Qiu Yunhan	 
+* Tan Tack Poh
 
 ## Studio/Slash
 * Benjamin Seet Tian You
-* Yuen Shu Hui	 
 * Bui Trong Nhan	 
 * Liu Jiale
+* Yuen Shu Hui	 
 
 ## The Remnants
 * Eu Yong Xue
@@ -30,3 +30,10 @@ group: navigation
 * Justin Law	
 * Muhammad Hanif B Ghazali	
 * Tay Shuan Siang
+
+## Craftholic Minon Corners Sky Pillars (CMCSP)
+* Chow Yuan Bin	
+* Kwa Yan Xiu Josephine	
+* Lau Xing Yi
+* Md Ashmawi
+* Tan Qian Yi	
