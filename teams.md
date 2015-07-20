@@ -3,6 +3,18 @@ title: Teams
 layout: page
 group: navigation
 ---
+## A.L.P.H.A
+* Daryl Lim Wancai	 
+* Doan Xuan Loc Nguyen	 
+* James Ho Tuck Wai
+* Qiu Yunhan	 
+* Tan Tack Poh
+
+## Aurora
+* Gao Risheng
+* Lang Fan
+* Li Yizhe
+* Michael Lee
 
 ## Cinematron
 * Cheng Wen Zhao	 
@@ -11,12 +23,12 @@ group: navigation
 * Michelle Sinn Shew Ye Oo	 
 * Stella Widyasari
 
-## A.L.P.H.A
-* Daryl Lim Wancai	 
-* Doan Xuan Loc Nguyen	 
-* James Ho Tuck Wai
-* Qiu Yunhan	 
-* Tan Tack Poh
+## Craftholic Minon Corners Sky Pillars (CMCSP)
+* Chow Yuan Bin	
+* Kwa Yan Xiu Josephine	
+* Lau Xing Yi
+* Md Ashmawi
+* Tan Qian Yi	
 
 ## Studio/Slash
 * Benjamin Seet Tian You
@@ -31,9 +43,3 @@ group: navigation
 * Muhammad Hanif B Ghazali	
 * Tay Shuan Siang
 
-## Craftholic Minon Corners Sky Pillars (CMCSP)
-* Chow Yuan Bin	
-* Kwa Yan Xiu Josephine	
-* Lau Xing Yi
-* Md Ashmawi
-* Tan Qian Yi	
