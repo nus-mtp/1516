@@ -21,3 +21,11 @@ Current computer games are written to run on game consoles, PCs, and mobile devi
 ### HTML5-based Zoomable Video Streaming Player
 
 A zoomable video player is a video player that allows user to zoom into and pan around the video to view selected in higher resolution and in more details.  The aim of this project is to develop an open source HTML5/Javascript-based video streaming server and player that utilizes websocket and DASH to stream videos for playback on a Javascript/HTML5 player.
+
+### Game Engine with Progressive Content Streaming
+
+The objective of this project is to develop a game engine that supports progressive downloading of game contents (a.k.a file streaming). The team should come up with game engine design and specifications/API for developers of game content/game, implement the design by modifying any existing open source game engine, and develop a common thin client called Gamelet (may be, plug-in for browser), which can download the game contents on demand and allows game play of any game built with the game engine. 
+ 
+### Adaptive Collaborative Rendering Engine for Cloud Games
+
+The objective is to build a rendering engine (or modify an existing engine, e.g. [Moonlight Stream](https://github.com/moonlight-stream)) that offloads part of the rendering task of cloud games to the client.  For example, some frames can be rendered in the server, others in the client, and they will be combined for display.  The engine should be adaptive to the network bandwidth, client resources, and game context. 
