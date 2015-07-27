@@ -30,6 +30,12 @@ group: navigation
 * Md Ashmawi
 * Tan Qian Yi	
 
+## Litmus
+* Leong Wei Ming
+* Low Sharmine
+* Nguyen Duc Thien
+* Soh You Jun
+
 ## Studio/Slash
 * Benjamin Seet Tian You
 * Bui Trong Nhan	 
