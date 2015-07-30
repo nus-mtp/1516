@@ -40,3 +40,9 @@ With advances in 3D printing and 3D scanning technologies, there are increasing 
 ### AutoComPaste: Simplifying Cross-Document Copy-Paste
 
 [AutoComPaste](http://autocompaste.github.io/AutoComPaste/) is a project that allow easy copy-and-paste across documents through an auto-completion interface.  This project aims to reimplement and extend the project, to support cross-device copy-paste operation and to support modern text editors (such as Atom).
+
+### eTutorial: More Engaging Tutorial during eLearning Week
+
+Current remote conference software supports lecture delivery very well.  For a tutorial scenario, where the tutor writes on the white board, and facilitate discussion among students, there is no good solution.  The goal of this project is to design a system that is easy to setup, easy to use, and effective in supporting e-learning for tutorial sessions.  
+
+This is an open-ended project: multiple teams can take up this project and propose/implement different solutions.
