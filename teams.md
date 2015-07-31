@@ -36,6 +36,13 @@ group: navigation
 * Nguyen Duc Thien
 * Soh You Jun
 
+## Meteoria
+* Kathy Phua
+* Lin Xiu'En Ann
+* Yui Wei
+* Nelson Goh
+* Choo Jia Le
+
 ## Studio/Slash
 * Benjamin Seet Tian You
 * Bui Trong Nhan	 
