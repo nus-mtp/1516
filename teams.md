@@ -30,6 +30,14 @@ group: navigation
 * Md Ashmawi
 * Tan Qian Yi	
 
+## Insert Coin
+* Eugene
+* Gabriellla Michelle
+* Kit Wei Min
+* Ng Siang Ping
+* Ng Wee Thia Joel
+
+
 ## Litmus
 * Leong Wei Ming
 * Low Sharmine
@@ -37,11 +45,11 @@ group: navigation
 * Soh You Jun
 
 ## Meteoria
+* Choo Jia Le
 * Kathy Phua
 * Lin Xiu'En Ann
-* Yui Wei
 * Nelson Goh
-* Choo Jia Le
+* Tan Yui Wei
 
 ## Studio/Slash
 * Benjamin Seet Tian You
