@@ -52,3 +52,7 @@ This is an open-ended project: multiple teams can take up this project and propo
 ### 15. EnvironView: A Viewer for Ourdoor Webcam Images
 
 Ourdoor webcams provide climate/environmental scientists a long-term window into how the environment has changed over the years.  See the paper by [Valt at al](http://arc.lib.montana.edu/snow-science/objects/ISSW13_paper_P2-16.pdf) for an example.  The aim of this project is to develop a system that helps scientists visualize the outdoor images captured, as well as to help them analyze the data.
+
+### 16. BillOrg: Automated Organization and Summary of Scanned Bills and Statements
+
+A person who scans his phone bills/medical bills/banks statements often has to manually file the scanned images/PDF.  The bills/statements from one organization, however, typically have the same layout and format and it is possible to automatically classify the bills (e.g., based on the logo) and file them into appropriate folders.  Further, it is possible to read information (such as the amount of phone usage) from the PDF/images and summarize them (e.g., show a chart of phone usage month-over-month).  In this project, the students will build a Web application that allows users to upload their scanned documents and present the documents in categories with summary automatically.
