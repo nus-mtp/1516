@@ -51,6 +51,13 @@ group: navigation
 * Nelson Goh
 * Tan Yui Wei
 
+## OneThreeFive
+* Mingyang Li
+* Ng Soo Sian Amanda 
+* Tan Xiao Yan Joan 
+* Tay Jun Wu Alan
+* Winston Goh
+
 ## Studio/Slash
 * Benjamin Seet Tian You
 * Bui Trong Nhan	 
