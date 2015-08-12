@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Media Technology Project: FAQ
-tagline: AY2015/16
+title: FAQs
+group: navigation
 ---
 {% include JB/setup %}
-
-## FAQs
 
 #### How is CS3283/4 different from CS3201/2 and CS3281/2?
 
