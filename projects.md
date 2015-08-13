@@ -4,6 +4,8 @@ layout: page
 group: navigation
 ---
 
+## Projects
+
 This list of projects will be available here.  New projects are still being added.  
 
 Teams are free to propose their own projects.  Email project ideas to Wei Tsang at ooiwt@comp.nus.edu.sg.

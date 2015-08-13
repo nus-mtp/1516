@@ -5,6 +5,8 @@ group: navigation
 ---
 {% include JB/setup %}
 
+## FAQs for Media Technology Project
+
 #### How is CS3283/4 different from CS3201/2 and CS3281/2?
 
 All three pairs of modules aim to train students in software engineering practices.

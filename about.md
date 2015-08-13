@@ -5,7 +5,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-### About CS3283/4 Media Technology Projects (MTP)
+## About CS3283/4 Media Technology Projects (MTP)
 
 #### The Official Blurb
 
@@ -17,7 +17,7 @@ This is a module where teams of students get together, hone their software engin
 
 ### When, Where, and Who?
 
-The class is scheduled for lecture on Thursday 4-6pm, in COM1 Level 2, Video Conferencing Room.  [Ooi Wei Tsang](http://www.comp.nus.edu.sg/~ooiwt) is the instructor for the project.
+The class is scheduled for lecture on Thursday 4-6pm, in COM1 Level 2, Video Conferencing Room.  [Ooi Wei Tsang](http://www.comp.nus.edu.sg/~ooiwt) is the instructor for the module.
 
 ### Teaching and Learning
 

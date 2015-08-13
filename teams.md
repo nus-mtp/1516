@@ -3,34 +3,37 @@ title: Teams
 layout: page
 group: navigation
 ---
-## A.L.P.H.A
+
+## Teams
+
+### A.L.P.H.A
 * Daryl Lim Wancai	 
 * Doan Xuan Loc Nguyen	 
 * James Ho Tuck Wai
 * Qiu Yunhan	 
 * Tan Tack Poh
 
-## Aurora
+### Aurora
 * Gao Risheng
 * Lang Fan
 * Li Yizhe
 * Michael Lee
 
-## Cinematron
+### Cinematron
 * Cheng Wen Zhao	 
 * Jeffrey Effendy
 * Lim En Dian John	 
 * Michelle Sinn Shew Ye Oo	 
 * Stella Widyasari
 
-## Craftholic Minon Corners Sky Pillars (CMCSP)
+### Craftholic Minon Corners Sky Pillars (CMCSP)
 * Chow Yuan Bin	
 * Kwa Yan Xiu Josephine	
 * Lau Xing Yi
 * Md Ashmawi
 * Tan Qian Yi	
 
-## Insert Coin
+### Insert Coin
 * Eugene
 * Gabriellla Michelle
 * Kit Wei Min
@@ -38,33 +41,33 @@ group: navigation
 * Ng Wee Thia Joel
 
 
-## Litmus
+### Litmus
 * Leong Wei Ming
 * Low Sharmine
 * Nguyen Duc Thien
 * Soh You Jun
 
-## Meteoria
+### Meteoria
 * Choo Jia Le
 * Kathy Phua
 * Lin Xiu'En Ann
 * Nelson Goh
 * Tan Yui Wei
 
-## OneThreeFive
+### OneThreeFive
 * Mingyang Li
 * Ng Soo Sian Amanda 
 * Tan Xiao Yan Joan 
 * Tay Jun Wu Alan
 * Winston Goh
 
-## Studio/Slash
+### Studio/Slash
 * Benjamin Seet Tian You
 * Bui Trong Nhan	 
 * Liu Jiale
 * Yuen Shu Hui	 
 
-## The Remnants
+### The Remnants
 * Eu Yong Xue
 * Jermyn Tanu	
 * Justin Law	
