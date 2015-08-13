@@ -74,3 +74,15 @@ group: navigation
 * Muhammad Hanif B Ghazali	
 * Tay Shuan Siang
 
+### New Team 1
+* Bao Xiao
+* Chen Di
+* Huang Liuhaoran
+* Huang Ziyu
+* Phan Shi Yu
+
+### New Team 2
+* He Buwei
+* Hu Yifei
+* Tang Keng Yan Daniel
+* Zhou Yichen
