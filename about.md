@@ -44,7 +44,7 @@ At the end of the project, students should be able to:
 
 * apply rigorous and principled software development methodologies and techniques to develop user-friendly, robust, secure, and efficient software systems
 * apply appropriate mathematics and computer science principles in one or more specialization to analyze and formulate an application problem, and to design, implement, and evaluate the solution of the problems.
-* demonstrate strong communication and teamwork skills to work with and 
+* demonstrate strong communication and teamwork skills, and 
 * contribute to a software team.
 
 #### Prerequisites
@@ -64,19 +64,19 @@ Additional knowledge (such as AI) may be needed, depending on the nature and dom
 
 #### Workload
 
-CS3283 and CS3284 is 4MC each.  Each student is expected to spend an average of 10 hours a week each semester on the project. Accordingly, at the end of the academic year, a team with k-member is expected to produce deliverables worthy of 260k person-hour of work.  To put that into perspective, a 4-member team should produce a work that is equivalent to about 6.5 person-month (8 hours/day, 20 days/month).
+Each of CS3283 and CS3284 is worth 4 MCs.  Each student is expected to spend an average of 10 hours a week each semester on the project. Accordingly, at the end of the academic year, a team with k-member is expected to produce deliverables worthy of 260k person-hour of work.  To put that into perspective, a 4-member team should produce a work that is equivalent to about 6.5 person-month (8 hours/day, 20 days/month).
 
 Students taking MTP are expected to plan their timetable properly to allow sufficient time to contribute to the project.
 
 #### Class Activities
 
-Each team will meet for 5 hours (consecutively) a week, for intense work sessions (think hackathon-type of intensity).  Instructors will join every work session, at least at the beginning.  Instructor will review and evaluate the work progress of the team (and individual students) at the work session, including conducting code review with individual students.
+Each team will meet for 5 hours (consecutively) a week, for intense work sessions (think hackathon-type of intensity).  Instructors will join every work session, at least at the end.  Instructors will review and evaluate the work progress of the team (and individual students) at the work session, including conducting random code review with individual students.
 
 We will adopt a somewhat agile methods where there is a weekly (or bi-weekly) release cycle and test-driven development where test cases will be developed (and tested) during development.
 
 There will be a stand up meeting at the beginning and the end of every work session.  A Kanban board (or similar techniques) will be used to keep track of tasks and progresses.  We will use github extensively (if the existing project does not already have a repository).  
 
-We will also have lectures in some of the weeks for discussions and recap of various software engineering principles.
+We will also have lectures in some of the weeks for discussions and recap of various software engineering principles.  See [the class schedule](schedule.html) for details.
 
 #### Assessments
 
