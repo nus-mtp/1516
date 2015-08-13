@@ -143,11 +143,11 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 20px;
+  font-family: Merriweather, sans-serif;
+  font-size: 16px;
+  line-height: 28px;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #fffff0;
 }
 a {
   color: #0088cc;
@@ -519,7 +519,7 @@ h1,
 h2,
 h3 {
   margin: 1.2em 0px 0.8em 0px;
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: Lato, "Helvetica Neue", sans-serif;
   font-weight: bold;
   line-height: 1;
   color: #126296;
@@ -529,7 +529,7 @@ h4,
 h5,
 h6 {
   margin: 1.2em 0px 0.8em 0px;
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: Lato, "Helvetica Neue", sans-serif;
   font-weight: bold;
   line-height: 1;
   color: black;
@@ -558,11 +558,11 @@ h3 {
   line-height: 40px;
 }
 h4 {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 20px;
 }
 h5 {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 20px;
 }
 h6 {
@@ -786,7 +786,7 @@ input,
 button,
 select,
 textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Lato, "Helvetica Neue", sans-serif;
 }
 label {
   display: block;
@@ -3524,7 +3524,7 @@ input[type="submit"].btn.btn-mini {
   margin-left: -20px;
   font-size: 30px;
   font-weight: 200;
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: Lato, "Helvetica Neue", sans-serif;
   color: #eeeeee;
   text-shadow: 0 1px 0 #36a1c6;
 }
@@ -3604,7 +3604,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-search .search-query {
   margin-bottom: 0;
   padding: 4px 14px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Lato, "Helvetica Neue", sans-serif;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
@@ -3688,7 +3688,7 @@ input[type="submit"].btn.btn-mini {
   color: #eeeeee;
   text-decoration: none;
   text-shadow: 0 1px 0 #36a1c6;
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: Lato, "Helvetica Neue", sans-serif;
 }
 .navbar .nav .dropdown-toggle .caret {
   margin-top: 8px;
@@ -4890,3 +4890,15 @@ a.badge:hover {
   position: fixed;
 }
 
+// Wei Tsang's Addition Below
+footer p {
+  font-family: Lato, "Helvetica Neue", sans-serif;
+  font-size: 12pt;
+  color: #666;
+}
+.content li {
+	line-height: 28px;
+}
+.content {
+	width: 800px;
+}
