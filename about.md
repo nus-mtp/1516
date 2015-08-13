@@ -15,6 +15,10 @@ According to the official NUS bulletin, CS3283 and CS3284 are two modules "on th
 
 This is a module where teams of students get together, hone their software engineering skills, put the computing knowledge learned in the classroom into practice, and build something cool.
 
+### When, Where, and Who?
+
+The class is scheduled for lecture on Thursday 4-6pm, in COM1 Level 2, Video Conferencing Room.  [Ooi Wei Tsang](http://www.comp.nus.edu.sg/~ooiwt) is the instructor for the project.
+
 ### Teaching and Learning
 
 CS3283 and CS3284 provide opportunities for students to experience and put into practice, the following software engineering methodologies and practices.
