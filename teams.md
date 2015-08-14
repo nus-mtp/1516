@@ -26,7 +26,7 @@ group: navigation
 * Michelle Sinn Shew Ye Oo	 
 * Stella Widyasari
 
-### Craftholic Minon Corners Sky Pillars (CMCSP)
+### Code Medics
 * Chow Yuan Bin	
 * Kwa Yan Xiu Josephine	
 * Lau Xing Yi
