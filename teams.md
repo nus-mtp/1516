@@ -4,85 +4,196 @@ layout: page
 group: navigation
 ---
 
-## Teams
-
-### A.L.P.H.A
-* Daryl Lim Wancai	 
-* Doan Xuan Loc Nguyen	 
-* James Ho Tuck Wai
-* Qiu Yunhan	 
-* Tan Tack Poh
-
-### Aurora
-* Gao Risheng
-* Lang Fan
-* Li Yizhe
-* Michael Lee
-
-### Cinematron
-* Cheng Wen Zhao	 
-* Jeffrey Effendy
-* Lim En Dian John	 
-* Michelle Sinn Shew Ye Oo	 
-* Stella Widyasari
-
-### Code Medics
-* Chow Yuan Bin	
-* Kwa Yan Xiu Josephine	
-* Lau Xing Yi
-* Md Ashmawi
-* Tan Qian Yi	
-
-### Insert Coin
-* Eugene
-* Gabriellla Michelle
-* Kit Wei Min
-* Ng Siang Ping
-* Ng Wee Thia Joel
+<table cellpadding="10px">
+<tr>
+<td valign="top">
+ <img src="images/alpha-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3>A.L.P.H.A</h3></h3>
+<ul>
+<ul>
+<li> Daryl Lim Wancai	 
+<li> Doan Xuan Loc Nguyen	 
+<li> James Ho Tuck Wai
+<li> Qiu Yunhan	 
+<li> Tan Tack Poh
+</ul>
+</td>
+</tr>
 
 
-### Litmus
-* Leong Wei Ming
-* Low Sharmine
-* Nguyen Duc Thien
-* Soh You Jun
+<tr>
+<td valign="top">
+ <img src="images/aurora-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> Aurora</h3>
+<ul>
+<li> Gao Risheng
+<li> Lang Fan
+<li> Li Yizhe
+<li> Michael Lee
+</ul>
+</td>
+</tr>
 
-### Meteoria
-* Choo Jia Le
-* Kathy Phua
-* Lin Xiu'En Ann
-* Nelson Goh
-* Tan Yui Wei
+<tr>
+<td valign="top">
+ <img src="images/cinematron-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> Cinematron</h3>
+<ul>
+<li> Cheng Wen Zhao	 
+<li> Jeffrey Effendy
+<li> Lim En Dian John	 
+<li> Michelle Sinn Shew Ye Oo	 
+<li> Stella Widyasari
+</ul>
+</td>
+</tr>
 
-### OneThreeFive
-* Mingyang Li
-* Ng Soo Sian Amanda 
-* Tan Xiao Yan Joan 
-* Tay Jun Wu Alan
-* Winston Goh
+<tr>
+<td valign="top">
+ <img src="images/code-medics-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> Code Medics</h3>
+<ul>
+<li> Chow Yuan Bin	
+<li> Kwa Yan Xiu Josephine	
+<li> Lau Xing Yi
+<li> Md Ashmawi
+<li> Tan Qian Yi	
+</ul>
+</td>
+</tr>
 
-### Studio/Slash
-* Benjamin Seet Tian You
-* Bui Trong Nhan	 
-* Liu Jiale
-* Yuen Shu Hui	 
+<tr>
+<td valign="top">
+ <img src="images/insert-coin-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> Insert Coin</h3>
+<ul>
+<li> Eugene
+<li> Gabriellla Michelle
+<li> Kit Wei Min
+<li> Ng Siang Ping
+<li> Ng Wee Thia Joel
+</ul>
+</td>
+</tr>
 
-### The Remnants
-* Eu Yong Xue
-* Jermyn Tanu	
-* Justin Law	
-* Muhammad Hanif B Ghazali	
-* Tay Shuan Siang
 
-### New Team 1
-* Bao Xiao
-* Chen Di
-* Huang Liuhaoran
-* Huang Ziyu
-* Phan Shi Yu
+<tr>
+<td valign="top">
+ <img src="images/litmus-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> Litmus</h3>
+<ul>
+<li> Leong Wei Ming
+<li> Low Sharmine
+<li> Nguyen Duc Thien
+<li> Soh You Jun
+</ul>
+</td>
+</tr>
 
-### New Team 2
-* He Buwei
-* Hu Yifei
-* Tang Keng Yan Daniel
-* Zhou Yichen
+<tr>
+<td valign="top">
+ <img src="images/meteoria-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> Meteoria</h3>
+<ul>
+<li> Choo Jia Le
+<li> Kathy Phua
+<li> Lin Xiu'En Ann
+<li> Nelson Goh
+<li> Tan Yui Wei
+</ul>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+ <img src="images/one-three-five-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> OneThreeFive</h3>
+<ul>
+<li> Mingyang Li
+<li> Ng Soo Sian Amanda 
+<li> Tan Xiao Yan Joan 
+<li> Tay Jun Wu Alan
+<li> Winston Goh
+</ul>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+ <img src="images/studio-slash-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> Studio/Slash</h3>
+<ul>
+<li> Benjamin Seet Tian You
+<li> Bui Trong Nhan	 
+<li> Liu Jiale
+<li> Yuen Shu Hui	 
+</ul>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+ <img src="images/the-remnants-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> The Remnants</h3>
+<ul>
+<li> Eu Yong Xue
+<li> Jermyn Tanu	
+<li> Justin Law	
+<li> Muhammad Hanif B Ghazali	
+<li> Tay Shuan Siang
+</ul>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+ <img src="images/new-team-1-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> New Team 1</h3>
+<ul>
+<li> Bao Xiao
+<li> Chen Di
+<li> Huang Liuhaoran
+<li> Huang Ziyu
+<li> Phan Shi Yu
+</ul>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+ <img src="images/new-team-2-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3> New Team 2</h3>
+<ul>
+<li> He Buwei
+<li> Hu Yifei
+<li> Tang Keng Yan Daniel
+<li> Zhou Yichen
+</ul>
+</td>
+</tr>
+
+</table>
