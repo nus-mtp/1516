@@ -72,6 +72,21 @@ group: navigation
 
 <tr>
 <td valign="top">
+ <img src="images/g-m-wefie.jpg" width="360px">
+</td>
+<td valign="top">
+<h3>G.M.</h3>
+<ul>
+<li> He Buwei
+<li> Hu Yifei
+<li> Tang Keng Yan Daniel
+<li> Zhou Yichen
+</ul>
+</td>
+</tr>
+
+<tr>
+<td valign="top">
  <img src="images/insert-coin-wefie.jpg" width="360px">
 </td>
 <td valign="top">
@@ -177,21 +192,6 @@ group: navigation
 <li> Huang Liuhaoran
 <li> Huang Ziyu
 <li> Phan Shi Yu
-</ul>
-</td>
-</tr>
-
-<tr>
-<td valign="top">
- <img src="images/new-team-2-wefie.jpg" width="360px">
-</td>
-<td valign="top">
-<h3> New Team 2</h3>
-<ul>
-<li> He Buwei
-<li> Hu Yifei
-<li> Tang Keng Yan Daniel
-<li> Zhou Yichen
 </ul>
 </td>
 </tr>
