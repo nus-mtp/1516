@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sample Requirements C
+tag: example
+date: 2015-08-20 15:37:00
 ---
 This sample is taken from a past CS3283/4 project.
 

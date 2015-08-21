@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Sample Requirements A
+tag: example
+date: 2015-08-20 15:37:00
 ---
 
 These sample requirements are taken from a past CS3281/2 project.

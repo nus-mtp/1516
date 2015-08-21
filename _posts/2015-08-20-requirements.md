@@ -1,6 +1,8 @@
 ---
 layout: post
 title: On Software Requirements
+tag: lecture
+date: 2015-08-20 15:38:00
 ---
 
 In this week's lecture, we will talk about gathering and documenting software requirements.  Here are the outlines:
