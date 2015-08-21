@@ -4902,3 +4902,11 @@ footer p {
 .content {
 	width: 800px;
 }
+table td,
+table th {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+table td {
+	border: 1px #eee solid;
+}
