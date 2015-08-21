@@ -10,7 +10,7 @@ group: navigation
  <img src="images/alpha-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>A.L.P.H.A</h3>
+<h4>A.L.P.H.A</h4>
 <ul>
 <ul>
 <li> Daryl Lim Wancai	 
@@ -28,7 +28,7 @@ group: navigation
  <img src="images/aurora-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>Aurora</h3>
+<h4>Aurora</h4>
 <ul>
 <li> Gao Risheng
 <li> Lang Fan
@@ -43,7 +43,7 @@ group: navigation
  <img src="images/cinematron-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>Cinematron</h3>
+<h4>Cinematron</h4>
 <ul>
 <li> Cheng Wen Zhao	 
 <li> Jeffrey Effendy
@@ -59,7 +59,7 @@ group: navigation
  <img src="images/code-medics-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>Code Medics</h3>
+<h4>Code Medics</h4>
 <ul>
 <li> Chow Yuan Bin	
 <li> Kwa Yan Xiu Josephine	
@@ -75,7 +75,7 @@ group: navigation
  <img src="images/g-m-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>G.M.</h3>
+<h4>G.M.</h4>
 <ul>
 <li> He Buwei
 <li> Hu Yifei
@@ -90,7 +90,7 @@ group: navigation
  <img src="images/insert-coin-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>Insert Coin</h3>
+<h4>Insert Coin</h4>
 <ul>
 <li> Eugene
 <li> Gabriellla Michelle
@@ -107,7 +107,7 @@ group: navigation
  <img src="images/litmus-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>Litmus</h3>
+<h4>Litmus</h4>
 <ul>
 <li> Leong Wei Ming
 <li> Low Sharmine
@@ -122,7 +122,7 @@ group: navigation
  <img src="images/meteoria-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>Meteoria</h3>
+<h4>Meteoria</h4>
 <ul>
 <li> Choo Jia Le
 <li> Kathy Phua
@@ -138,7 +138,7 @@ group: navigation
  <img src="images/one-three-five-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>OneThreeFive</h3>
+<h4>OneThreeFive</h4>
 <ul>
 <li> Mingyang Li
 <li> Ng Soo Sian Amanda 
@@ -154,7 +154,7 @@ group: navigation
  <img src="images/studio-slash-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>Studio/Slash</h3>
+<h4>Studio/Slash</h4>
 <ul>
 <li>Benjamin Seet Tian You
 <li>Bui Trong Nhan	 
@@ -169,7 +169,7 @@ group: navigation
  <img src="images/the-remnants-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3>The Remnants</h3>
+<h4>The Remnants</h4>
 <ul>
 <li>Eu Yong Xue
 <li>Jermyn Tanu	
@@ -185,7 +185,7 @@ group: navigation
  <img src="images/new-team-1-wefie.jpg" width="360px">
 </td>
 <td valign="top">
-<h3> New Team 1</h3>
+<h4> New Team 1</h4>
 <ul>
 <li> Bao Xiao
 <li> Chen Di
