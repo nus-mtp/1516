@@ -4,36 +4,35 @@ title: Thinking About Security
 tag: lecture
 date: 2015-08-27 11:34:07
 ---
-Instead of going through another past project, I decided to change the lecture plan so that I can address something that I observe during the work sessions so far.  __There is a lack of consideration about security when you capture the software requirements__
+Instead of going through another past project, I decided to change the lecture plan so that I can address something that I observe during the work sessions so far.  __There is a lack of consideration on security when you capture the software requirements__
 
-I mentioned passing penetration test as a verifiable non-function requirements.  But including security consideration is more than meeting non-functional requirements.   Some functionalities have to be included into the system to ensure that the security of the system.  Security is not a feature.  It is a property that emerges after sufficient security-related mechanism is implemented.
+I mentioned passing penetration tests as a verifiable non-functional requirement.  But building a secure system is more than meeting non-functional requirements.   Some functionalities have to be included into the system to ensure the security of the system.  Security is not a feature.  It is a property that emerges after sufficient number security-related mechanisms are implemented.
 
 Here are the outline for lecture today:
 
 + CIA: Three key properties of security:
     + Confidentiality
     + Integrity
-    + Avaialbility
+    + Availability
 + Security can often be included as a constraint (e.g., "precondition: user must be authenticated" for a "transfer money" use case)
 + Another way security can be specified is by saying what users should _not_ do.  
 + How to think about security:
      + Adding anti-behavior: misuse cases and abuser stories
      + Categories of threats:
          + **S**poofing: can the user pretend to be someone else?
-         + **T**ampering: can the user temper with the data?
+         + **T**ampering: can the user tamper with the data?
          + **R**epudiation: can the user deny ever performing an action?
          + **I**nformation disclosure: can the user see something he/she is not supposed to see? 
          + **D**enial of service: can the user overload or crash the system?
          + **E**levation of privilege: can the user gain more privilege than intended?
-+ We can counter these with added constraints or functions.
++ We can counter these anti-behavior with added constraints or functional requirements.
 
 ### Example User Stories
 
-1. As a customer I want to login with my username and password so that I access my
-bank account online 
-2. As a customer I want to transfer money to another account after I login
-3. As a customer I want to be able to logout after I login
-4.  As a costumer I want to reset my password so that if I forgot what my password is I will not loose access to my account.
+1. As a __customer__ I want to __login with my username and password__ so that __I can access my bank account online__ 
+2. As a __customer__ I want to __transfer money to another account after I login__
+3. As a __customer__ I want to __be able to logout after I login__
+4.  As a __costumer__ I want to __reset my password when I forgot what my password is__ so that __I will not lose access to my account__.
 
 + What could be the abuser stories?
 + What can we add to the user stories to counter these abuser stories?
