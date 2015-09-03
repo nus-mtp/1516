@@ -6,7 +6,6 @@ group: navigation
 
 ## Tentative Class Schedule
 
---
 | Date | Lecture | Assessment |
 |-----:|:--------|:-----------|
 | **08-13** | Introduction | - | 
