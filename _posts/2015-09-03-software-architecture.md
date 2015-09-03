@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome and To-Do
+title: Software Architecture and Design
 tag: lecture
-date: 2015-08-13 15:43:00 
+date: 2015-09-03 13:09:42 
 ---
 
 If your team already has sufficient ideas about __what__ to implement for your project, it is now time to think about __how__ to implement it.  This step is where you _plan_ your implementation details, from what are the major components of the system, what languages/libraries/frameworks/databases to use, what algorithms/data structures to use, what the UI would look like, what are the key classes in your system, etc.  You may even start a small prototype to explore the options you have.  
