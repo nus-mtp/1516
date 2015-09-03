@@ -33,10 +33,10 @@ In this lecture, I will recap some principles of good software design and explai
      + What is the simplest way to test? (e.g., can I test without UI and without DB?)
     
 #### What type of diagrams to draw?
- + no fix rules here, just be simple, clear, and consistent
- + can have more than one
- + be very clear yourselves what boxes and arrows mean
- + common mistake: e.g., an arrow means inheritance in some parts of diagrams, means the sequence of flow in other parts, and means passing data from one component to the next in yet another part.
++ no fix rules here, just be simple, clear, and consistent
++ can have more than one
++ be very clear yourselves what boxes and arrows mean
++ common mistake: e.g., an arrow means inheritance in some parts of diagrams, means the sequence of flow in other parts, and means passing data from one component to the next in yet another part.
 + rules of thumb: if a diagram is not readable on 1-page A4 print out, it is not useful 
 
 #### Example 1: MVC
@@ -47,11 +47,13 @@ In this lecture, I will recap some principles of good software design and explai
 MVC is originally proposed in the context of Smalltalk, where every UI component (e.g., a button) is a view.  Now it is used as if the whole Web page is a view, and that makes it a bit awkward sometimes.
 
 #### Example 2: The Clean Architecture
-The Clean Architecture, proposed by Uncle Bob, basically separates a system into: 
-+ domain logic 
-+ application logic
-+ implementation details (UI, DB, frameworks, libraries), and 
-+ adaptors, which form a layer of indirection between the application logic and the implementation details.
+The Clean Architecture, proposed by Uncle Bob (a well known software engineering consultant), basically separates a system into layers: 
+1. domain logic 
+2. application logic
+3. adaptors, which form a layer of indirection between the application logic and the implementation details, and
+4. implementation details (UI, DB, frameworks, libraries).
+
+More (or fewer) layers is OK, but the rule is that lower layer (e.g., domain logic) should not know anything about higher layer (e.g., application logic).  
 
 #### Design Decisions
 When you need to decide which framework/library/algorithms, etc., to use, consider the "QOC":
@@ -60,6 +62,11 @@ When you need to decide which framework/library/algorithms, etc., to use, consid
 + O: what are the options available? E.g., (i) write my own OCR engine; (ii) use Tesseract, an open source library; (iii) use Aspire, a proprietary software, (iv)...
 + C: what are the criteria? E.g., (i) fast and small enough to run within the time limit on iPhone 5, (ii) accurate enough, (iii) cheap, (iv) able to get it done quickly, (v) availability of technical support, etc ..
 
+Take a look at the [CIO](https://wiki.nus.edu.sg/pages/viewpage.action?pageId=103933178) project as an example.
+
 #### CS3283 Requirements
 + Keep track of your architectural design evolution. Please explain how it evolves over time (and why).
 + Document your detailed design decision clearly. Starts with the QOC, then argue the pros and cons of each option according to the criteria.
+
+#### Additional Readings
++ The two books on [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) have many gems to learn from (I haven't finish reading them all!).  At least, take a look at [Scalable Web Architecture and Distributed Systems by Kate Matsudaira](http://aosabook.org/en/distsys.html).
