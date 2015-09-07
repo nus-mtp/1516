@@ -7,6 +7,8 @@ date: 2015-09-03 13:09:42
 
 If your team already has sufficient ideas about __what__ to implement for your project, it is now time to think about __how__ to implement it.  This step is where you _plan_ your implementation details, from what are the major components of the system, what languages/libraries/frameworks/databases to use, what algorithms/data structures to use, what the UI would look like, what are the key classes in your system, etc.  You may even start a small prototype to explore the options you have.  
 
+<!--more-->
+
 For your project, the design and architecture are expected to change over time.  You should, however, still have _sufficiently detailed and stable design_ to move on to the implementation phase. 
 
 In this lecture, I will recap some principles of good software design and explain what you are expected to go through for your software design process for this module.  Here is the outline:
