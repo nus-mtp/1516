@@ -12,7 +12,6 @@ group: navigation
 <td valign="top">
 <h4>A.L.P.H.A</h4>
 <ul>
-<ul>
 <li> Daryl Lim Wancai	 
 <li> Doan Xuan Loc Nguyen	 
 <li> James Ho Tuck Wai
