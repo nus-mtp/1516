@@ -13,7 +13,6 @@
 
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/css/bootstrap.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/bootstrap-responsive.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 	<!--link href='http://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'-->
 	<link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700' rel='stylesheet' type='text/css'>
@@ -32,24 +31,38 @@
 
   <body>
 
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
+    <header class="navbar-nav navbar-static-top">
         <div class="container">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
+		  <div class="navbar-header">
+			  <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+		  </div>
+          <ul class="nav navbar-nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
         </div>
-      </div>
-    </div>
+    </header>
 
     <div class="container">
 	 <br>
-      <div class="content">
-        {{ content }}
-      </div>
+      <div class="row">
+		  <div class="col-lg-8 content">
+			{{ content }}
+		  </div>
+		  <div class="col-lg-3 sidebar">
+			  {% assign posts_collate = site.posts %}
+			  {% include JB/posts_collate %}
+			  <h4>Tags</h4>
+			  <ul>
+			  {% assign tags_list = site.tags %}  
+			  {% include JB/tags_list %}
+			  </ul>
+			  <br>
+			  <br>
+			  <hr>
+		  </div>
+	  </div>
 
       <footer>
         <p>&copy; {{ site.author.name }} 2015 
