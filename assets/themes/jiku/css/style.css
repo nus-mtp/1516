@@ -1,22 +1,47 @@
+header.navbar-nav {
+	background-color: #2b809e;
+	width: 100%;
+	margin-top: 0px;
+	padding-top: 0px;
+	font-size: larger;
+}
+header.navbar-nav a {
+	color: #fff;
+}
+header.navbar-nav a:hover {
+	background-color: #26708a;
+}
+
+h1, h2, h3, h4, header, div.sidebar {
+	font-family: Lato, "Helvetica Neue", sans-serif;
+}
+div.sidebar {
+	font-size: 10pt;
+	border: 1px #bfe8f6;
+	height: 100%;
+}
+
 /* Override some defaults */
 html, body {
-  background-color: #eee;
+  background-color: #fefefe;
 }
 body {
-  padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
+  /* padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
 }
 .container > footer p {
   text-align: center; /* center align it with the container */
 }
 .container {
-  width: 820px; /* downsize our container to make the content feel a bit tighter and more cohesive. NOTE: this removes two full columns from the grid, meaning you only go to 14 columns and not 16. */
+  /* width: 820px; /* downsize our container to make the content feel a bit tighter and more cohesive. NOTE: this removes two full columns from the grid, meaning you only go to 14 columns and not 16. */
 }
 
 /* The white background content wrapper */
+/*
 .content {
   background-color: #fff;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+  /*
   -webkit-border-radius: 0 0 6px 6px;
      -moz-border-radius: 0 0 6px 6px;
           border-radius: 0 0 6px 6px;
@@ -24,6 +49,7 @@ body {
      -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
           box-shadow: 0 1px 2px rgba(0,0,0,.15);
 }
+	*/
 
 /* Page header tweaks */
 .page-header {
