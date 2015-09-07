@@ -1,3 +1,6 @@
+body {
+	line-height: 1.6em;
+}
 header.navbar-nav {
 	background-color: #2b809e;
 	width: 100%;
@@ -10,6 +13,14 @@ header.navbar-nav a {
 }
 header.navbar-nav a:hover {
 	background-color: #26708a;
+}
+h1, h2, h3, h4 {
+	color: #26708a;
+	font-weight: bold;
+}
+h1, h2, h3 {
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
 }
 
 h1, h2, h3, h4, header, div.sidebar {
@@ -97,3 +108,16 @@ body {
 	color:#FFF;
 }
 	
+table td,
+table th {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+table td {
+	border: 1px #eee solid;
+}
+footer {
+	font-size: 90%;
+	color: #999;
+	font-family: Lato, "Helvetica Neue", sans-serif;
+}
