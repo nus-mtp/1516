@@ -16,10 +16,10 @@ group: navigation
 | **09-17** | Software Usability |- |  
 | **09-24** | Recess Week |- | 
 | **10-01** | - | Midterm Report Due | 
-| **10-08** | - | CA2 + Peer Review | 
-| **10-15** | Estimation + Planning | |  
+| **10-08** | - | Peer Review | 
+| **10-15** | Estimation + Planning | CA2 |  
 | **10-22** | - |- |  
 | **10-29** | Coding + Testing |- |  
-| **11-05** | - | CA3 | 
+| **11-05** | - | | 
 | **11-12** | - | Final Report Due  |  
-| **11-17/18** |  | Final Presentation |
+| **11-17/18** |  | Final Presentation + CA3 |
