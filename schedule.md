@@ -22,4 +22,4 @@ group: navigation
 | **10-29** | Coding + Testing |- |  
 | **11-05** | - | CA3 | 
 | **11-12** | - | Final Report Due  |  
-| **11-19/20** |  | Final Presentation |
+| **11-17/18** |  | Final Presentation |
