@@ -34,6 +34,7 @@ You can think of the midterm report as a snapshot of an evolving document that w
     + What activities did you perform to gather/validate the requirements of your project?  Include the details (e.g., for user survey, you can mention the questions you asked, who the participants of the survey are, what did you find from the survey, etc).  If it gets too long, put the details in the appendix.
 + Software Requirements
     + What are the requirements (functional, non-functional) of the project?
+    + Remember to include the abuser stories/misuse cases and highlight how you mitigate these with your requirements.
 + Software Architecture and Design
     + What is the architecture of the software you are going to build?  What are the components? how they interact with each other?
 	+ What are some major design/implementation decisions that you have made?  How did you come about making those decisions? (you may include the QOC)
