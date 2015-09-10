@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Final Presentation and Midterm Report
-tag: lecture
+tag: announcement
 date: 2015-09-10 10:23:18 
 ---
 
