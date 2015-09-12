@@ -12,8 +12,8 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/css/bootstrap.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+		<link href="{{site.baseurl}}{{ ASSET_PATH }}/css/bootstrap.css" rel="stylesheet">
+		<link href="{{site.baseurl}}{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 	<!--link href='http://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'-->
 	<link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
@@ -34,7 +34,7 @@
     <header class="navbar-nav navbar-static-top">
         <div class="container">
 		  <div class="navbar-header">
-			  <a class="navbar-brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+				<a class="navbar-brand" href="{{site.baseurl}}{{ HOME_PATH }}">{{ site.title }}</a>
 		  </div>
           <ul class="nav navbar-nav">
             {% assign pages_list = site.pages %}
