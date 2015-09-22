@@ -5,6 +5,10 @@ tag: lecture
 date: 2015-09-17 16:07:40
 ---
 
+In this lecture, Jay Chua presents four rules that Wei Tsang has distilled from existing UI/UX design literature: Don't make me think, or work, or wait, or cry.
+
+<!--more-->
+
 ### Rule 1: Don't Make Me Think
 
 * Give clear, simple, useful, readable message/information/update/feedback to users 
