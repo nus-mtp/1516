@@ -12,14 +12,14 @@ group: navigation
 | **08-20** | Requirements I | -| 
 | **08-27** | Requirements II | -|
 | **09-03** | System Design I | CA1 |  
-| **09-10** | System Design II | -| 
+| **09-10** | Project Showcases I | -| 
 | **09-17** | Software Usability |- |  
 | **09-24** | Recess Week |- | 
-| **10-01** | - | Midterm Report Due | 
-| **10-08** | - | Peer Review | 
-| **10-15** | Estimation + Planning | CA2 |  
-| **10-22** | - |- |  
-| **10-29** | Coding + Testing |- |  
-| **11-05** | - | | 
+| **10-01** | - | Midterm Report + Peer Review Due | 
+| **10-08** | Implmentation | | 
+| **10-15** | Project Showcases II | CA2 |  
+| **10-22** | - | - |  
+| **10-29** | - | - |  
+| **11-05** | - | - | 
 | **11-12** | - | Final Report Due  |  
 | **11-17/18** |  | Final Presentation + CA3 |
