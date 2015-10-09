@@ -26,8 +26,8 @@ group: navigation
 
 ## Final Presentation Schedule
 
-Date: 17-18 November
-Venue: Seminar Room 5
+* Date: 17-18 November
+* Venue: Seminar Room 5
 
 
 ### 17 November (Tuesday)
