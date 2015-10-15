@@ -7,6 +7,7 @@ date: 2015-10-07 15:37:00
 
 Several team is now ready to start the coding sprints, so I am moving this lecture forward by a week.
 
+
 ### Code sprint
 
 * Getting a usable prototype out every sprint
@@ -15,6 +16,8 @@ Several team is now ready to start the coding sprints, so I am moving this lectu
 * Ideal sprint length for CS3283/4: 2-3 weeks
 * End of sprint: **integrated, tested, potentially shippable**
 * Use tools (such as Kanban) to visualize the state of the project
+
+<!--more-->
 
 ### Task prioritization
 
