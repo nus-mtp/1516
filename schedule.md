@@ -20,7 +20,7 @@ group: navigation
 | **10-15** | Project Showcases II | CA2 |  
 | **10-22** | - | - |  
 | **10-29** | - | - |  
-| **11-05** | - | - | 
+| **11-05** | Project Showcases III | - | 
 | **11-12** | - | Final Report Due  |  
 | **11-17/18** |  | Final Presentation + CA3 |
 
@@ -37,7 +37,7 @@ group: navigation
 | 0900-0945 | OneThreeFive | A/P Ng Teck Khim | Dr. Anand Bhojan | 
 | 0945-1030 | Litmus | A/P Ng Teck Khim | Dr. Anand Bhojan | 
 | 1030-1115 | GM | A/P Leow Wee Kheng | Dr. Anand Bhojan | 
-| 1030-1115 | Insert Coin | A/P Leow Wee Kheng | Dr. Anand Bhojan | 
+| 1115-1200 | Insert Coin | A/P Leow Wee Kheng | Dr. Anand Bhojan | 
 
 ### 18 November (Wed)
 
