@@ -18,6 +18,9 @@ h1, h2, h3, h4 {
 	color: #5d0a02;
 	font-weight: bold;
 }
+h1 a, h2 a, h3 a, h4 a {
+	color: #5d0a02;
+}
 h1, h2, h3 {
 	margin-top: 1.5em;
 	margin-bottom: 1.5em;
