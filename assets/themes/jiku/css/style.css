@@ -2,7 +2,7 @@ body {
 	line-height: 1.6em;
 }
 header.navbar-nav {
-	background-color: #2b809e;
+	background-color: #9e1103;
 	width: 100%;
 	margin-top: 0px;
 	padding-top: 0px;
@@ -12,10 +12,10 @@ header.navbar-nav a {
 	color: #fff;
 }
 header.navbar-nav a:hover {
-	background-color: #26708a;
+	background-color: #5d0a02;
 }
 h1, h2, h3, h4 {
-	color: #26708a;
+	color: #5d0a02;
 	font-weight: bold;
 }
 h1, h2, h3 {
