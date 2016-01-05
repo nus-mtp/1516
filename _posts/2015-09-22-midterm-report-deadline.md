@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Announcement: Deadline for Midterm Report and Lecture Next Week
+title: Deadline for Midterm Report and Lecture Next Week
 tag: announcement
 date: 2015-09-22 12:30:13
 ---
