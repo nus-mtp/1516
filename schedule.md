@@ -19,8 +19,8 @@ group: navigation
 | **03-11** | - | | 
 | **03-18** | On Software Tools | CA2 |  
 | **03-25** | - | - |  
-| **04-01** | - | - |  
-| **04-08** | Recap: Final Report and Presentation | - | 
+| **04-01** | Recap: Final Report and Presentation | - | 
+| **04-08** | - | - |  
 | **04-15** | - | Final Report Due  |  
 | **04-20** | - | STePS |  
 | **04-21/22** |  | Final Presentation + CA3 |
