@@ -6,6 +6,7 @@ paginate: 5
 excerpt_separator: <!--more-->
 gems:
   - jekyll-last-modified-at
+  - jekyll-paginate
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: rouge
