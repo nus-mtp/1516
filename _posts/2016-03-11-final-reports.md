@@ -2,10 +2,10 @@
 layout: post
 title: Final Reports
 tag: announcement
-date: 2016-03-11 09:53:31
+date: 2016-03-10 09:53:31
 ---
 
-Here are information about what needs to be submitted for your final reports.  As mentioned, these will be extensions of your CS3283 final report, splitted into two, a project report and a developer's guide.  
+Here is the information about what needs to be submitted for your final reports.  As mentioned, these will be extensions of your CS3283 final report, splitted into two, a project report and a developer's guide.  
 
 In general, the project report will be written with the instructor and examiners as target reader.  It should demonstrate that you have followed and learned good software engineering practices in CS3283/4. The developer's guide will be written with a fellow developer who will maintain and further developer your project as target reader, and should provide information your project and code.  
 
@@ -29,4 +29,4 @@ In general, the project report will be written with the instructor and examiners
 - You need to submit a PDF file, name teamname-dev-guide.pdf, into IVLE's workbin, replacing teamname with the name of your team.
 - The report documents the project's motivation/description, software requirements, design, implementation, test cases, coding convention, instructions on how to install/compile/test/run, remaining issues, repository, CI site, etc.
 - The target reader is a fellow developer who will maintain and continue the development of your project.
-- Any information that will be helpful to a developer can go into here.
+- Any other information that will be helpful to a developer can go into here.
