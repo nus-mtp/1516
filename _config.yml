@@ -2,10 +2,10 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 #permalink: /:categories/:year/:month/:day/:title
 
+timezone: Asia/Singapore
 paginate: 5
 excerpt_separator: <!--more-->
 gems:
-  - jekyll-last-modified-at
   - jekyll-paginate
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
