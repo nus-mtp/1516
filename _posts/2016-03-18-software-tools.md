@@ -42,7 +42,7 @@ Traffic controllers are tool that change your laptop network conditions so that 
 
 Mac users can [download](https://developer.apple.com/downloads/?name=for%20Xcode) ```Network Link Conditioner``` as a developer's tool from Apple.  This tool is provided as part of the Hardware IO Tools.  Note that it does not work on localhost/127.0.0.1.  Adventurous students can check out ```dnctl```.
 
-Linux users can use [```tc```], which is usually bundled together.  The command line arguments, however, are pretty complex.
+Linux users can use [```tc```](http://www.tldp.org/HOWTO/html_single/Traffic-Control-HOWTO/), which is usually bundled together.  The command line arguments, however, are pretty complex.
 
 Chrome has a built-in [throttling mode](https://developer.chrome.com/devtools/docs/device-mode#network-conditions) but it works only for traffic from/to Chrome only.
 
@@ -55,6 +55,7 @@ Chrome has a built-in [throttling mode](https://developer.chrome.com/devtools/do
 To ensure consistent coding style, use a beaufitier, which can automatically reindent and reformat your code following a given configuration (e.g., use spaces or tab, how much to indent, etc.)
 
 The following might be useful:
+
 * [```js-beautify```](https://www.npmjs.com/package/js-beautify)
 * [```ruby-beautify```](https://github.com/erniebrodeur/ruby-beautify)
 * [```autopep8```](https://pypi.python.org/pypi/autopep8) formats Python code according to PEP8 recommended style
