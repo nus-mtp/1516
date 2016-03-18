@@ -5,7 +5,7 @@ tag: lecture
 date: 2016-03-18 01:53:10 +0800
 ---
 
-In this lecture, I will share with you some tools that might be useful for your project.  Not all tools apply to all projects, but it should give you an idea to look for similar tools that suit the programming language or operating system you are using.
+In this lecture, I will share with you some tools that might be useful for your project.  Not all tools apply to all projects, but it should give you an idea to look for similar tools that suit the programming language or operating system you are using.  This list is not exhaustive, and I don't have first hand experience with many of them.  
 
 ## Message Passing Formats
 
