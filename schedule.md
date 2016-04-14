@@ -4,6 +4,37 @@ layout: page
 group: navigation
 ---
 
+## Final Presentation Schedule
+
+* Date: 21-22 April
+* Venue: Seminar Room 5
+
+
+### 21 April (Thursday)
+
+| Time | Team | Evaluator | Evaluator |
+|-----:|:----------|:----------|:-----|
+| 0900-0945 | GM | Dr. Bimlesh Wadhwa| Dr. Steven Halim| 
+| 0945-1030 | OneThreeFive | Dr. Bimlesh Wadhwa | Dr. Steven Halim| 
+| 1030-1115 | Insert Coin | A/P Ng Teck Khim| Dr. Steven Halim| 
+| 1115-1330 | Break | | | 
+| 1330-1415 | New Team 1 | A/P Ng Teck Khim | Dr. Steven Halim| 
+| 1415-1500 | Meteoria | Dr. Low Kok Lim| A/P Terence Sim| 
+| 1500-1545 | ALPHA | Dr. Low Kok Lim| A/P Terence Sim| 
+
+### 22 April (Friday)
+
+| Time | Team | Evaluator | Evaluator |
+|-----:|:----------|:----------|:-----|
+| 0900-0945 | Aurora | Dr. Bimlesh Wadhwa | Dr. Anand Bhojan | 
+| 0945-1030 | Studio/Slash | Dr. Bimlesh Wadhwa| Dr. Anand Bhojan | 
+| 1030-1115 | Code Medic | Dr. Low Kok Lim | Dr. Anand Bhojan | 
+| 1115-1200 | Litmus | Dr. Low Kok Lim | Dr. Anand Bhojan | 
+| 1200-1330| break |||
+| 1330-1415 | Cinematron | Dr. Ng Teck Khim| Dr. Terence Sim| 
+| 1415-1500 | The Remnants| Dr. Ng Teck Khim| Dr. Terence Sim| 
+
+
 ## Tentative Class Schedule
 
 | Date | Lecture | Assessment |
@@ -25,4 +56,5 @@ group: navigation
 | **04-20** | - | STePS |  
 | **04-21/22** |  | Final Presentation + CA3 |
 | **04-29** |  | Peer Review Due |
+
 
